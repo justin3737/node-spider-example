@@ -1,0 +1,18 @@
+{
+  "name": "node-spoder-example",
+  "version": "1.0.0",
+  "description": "use spider to get files",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "html-to-text": "^3.0.0",
+    "random-ua": "0.0.6",
+    "simplecrawler": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node index.js"
+  },
+  "author": "JustinWu",
+  "license": "MIT"
+}
